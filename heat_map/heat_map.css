@@ -1,0 +1,15 @@
+#container {
+    position: relative;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+#tooltip {
+    position: absolute;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    text-align: center;
+}
